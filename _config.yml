@@ -1,4 +1,3 @@
-layout_spectrum: 0.02609635842964053
 typography_spectrum: 0.5891616842709482
 color:
   brandStrength: 0.5097661025356501
@@ -11,4 +10,9 @@ color:
     - '#ECF0F1'
     - '#3498DB'
     - '#2980B9'
-name: eldookie
+layout_spectrum: 0.02609635842964053
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/92fdd32f-57c8-483b-b3a7-5add67c75ea5.png
+name: El Dookie
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/b39edc95-040c-4332-ae8c-7ee00e132215.jpg
