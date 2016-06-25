@@ -2,13 +2,20 @@
     <channel>
         <title><![CDATA[eldookie]]></title>
         <description><![CDATA[eldookie]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/eldookie/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 25 Jun 2016 17:44:33 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 25 Jun 2016 17:51:31 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/eldookie/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[25 Solid Reasons Why You Should Go To The Gym]]></title>
+            <description><![CDATA[<article><h1>25 Solid Reasons Why You Should Go To The Gym</h1><p>How many of these reasons resonate with you?</p><img src="http://cdn.ebaumsworld.com/thumbs/2016/06/24/031617/85061706/gym.jpg"></article>]]></description>
+            <link>http://www.ebaumsworld.com/pictures/25-solid-reasons-why-you-should-go-to-the-gym/85061706/</link>
+            <guid isPermaLink="false">428d6e8f-9d8b-4f49-9803-fb43cc72d691</guid>
+            <pubDate>Sat, 25 Jun 2016 17:50:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Sun's Out, Rum's Out! (24 Photos)]]></title>
-            <description><![CDATA[<article><h1>Sun's Out, Rum's Out! (24 Photos)</h1><p>Visit the post for more.</p><img src="https://i2.wp.com/thechive.files.wordpress.com/2016/06/suns-out-rums-out-24-photos-25.jpg?fit=440%2C330&quality=85&strip=info&ssl=1"></article>]]></description>
+            <description><![CDATA[<article><h1>Sun's Out, Rum's Out! (24 Photos)</h1><p>Visit the post for more.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/672bb6ab970083a9c3c58465c52343a7/noop.jpg?input=https%3A%2F%2Fi2.wp.com%2Fthechive.files.wordpress.com%2F2016%2F06%2Fsuns-out-rums-out-24-photos-25.jpg%3Ffit%3D440%252C330%26quality%3D85%26strip%3Dinfo%26ssl%3D1"></article>]]></description>
             <link>http://thechive.com/2016/06/25/suns-out-rums-out-24-photos/</link>
             <guid isPermaLink="false">2fbc378d-2867-40d0-8122-c8b228207e18</guid>
             <pubDate>Sat, 25 Jun 2016 17:44:21 GMT</pubDate>
