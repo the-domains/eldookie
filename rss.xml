@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[eldookie]]></title>
+        <description><![CDATA[eldookie]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 25 Jun 2016 17:44:33 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Sun's Out, Rum's Out! (24 Photos)]]></title>
+            <description><![CDATA[<article><h1>Sun's Out, Rum's Out! (24 Photos)</h1><p>Visit the post for more.</p><img src="https://i2.wp.com/thechive.files.wordpress.com/2016/06/suns-out-rums-out-24-photos-25.jpg?fit=440%2C330&quality=85&strip=info&ssl=1"></article>]]></description>
+            <link>http://thechive.com/2016/06/25/suns-out-rums-out-24-photos/</link>
+            <guid isPermaLink="false">2fbc378d-2867-40d0-8122-c8b228207e18</guid>
+            <pubDate>Sat, 25 Jun 2016 17:44:21 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
