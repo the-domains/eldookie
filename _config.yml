@@ -1,0 +1,14 @@
+layout_spectrum: 0.02609635842964053
+typography_spectrum: 0.5891616842709482
+color:
+  brandStrength: 0.5097661025356501
+  lightness: 0.23629978741519153
+  saturation: 0.586116123944521
+  rhythmicContrast: 0.5444067681673914
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: eldookie
